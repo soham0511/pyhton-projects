@@ -1,2 +1,2 @@
 # pyhton-projects
-Python Projects
+Simple Beginner level Python Projects. 
