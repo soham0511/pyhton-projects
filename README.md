@@ -15,5 +15,5 @@ pip install pygame
 Note: the modules which are not mentioned above come built-in with your python installation file, so no need to install them explicitely.
 In case you are using some IDE where terminal option is absent, then you can go to your command-line-prompt for installation.
 In the cmd you need to write
->>>pip install <module-name>
+pip install <module-name>
   and your module will be installed.
