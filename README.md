@@ -9,6 +9,8 @@ The Python Dino Game Project requires you to install pyautogui and pillow module
 pip install pyautogui
 pip install pillow
 
+The Railway Announcement System requires you to install pandas, pydub and gTTs. If you face any problem in installing the pydub module then go to the link https://www.lfd.uci.edu/~gohlke/pythonlibs/ .
+
 To use the Projects involving some game you need to install pygame module from the terminal and the statement for installation:
 pip install pygame
 
