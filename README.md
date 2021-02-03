@@ -14,8 +14,11 @@ The Railway Announcement System requires you to install pandas, pydub and gTTs. 
 To use the Projects involving some game you need to install pygame module from the terminal and the statement for installation:
 pip install pygame
 
-Warning: In the Corona-Virus Notification Project we had scraped our data from Ministry of Health Official Site, where a table of number of cases in different states were available at the time when this program was written, but currently the table class has been removed from the site.                                                                 
+Warning: In the Corona-Virus Notification Project we had scraped our data from Ministry of Health Official Site, where a table of number of cases in different states were available at the time when this program was written, but currently the table class has been removed from the site.                                                             
+
 Note: the modules which are not mentioned above come built-in with your python installation file, so no need to install them explicitely.
 In case you are using some IDE where terminal option is absent, then you can go to your command-line-prompt for installation.
 In the cmd you need to write
-pip install <module-name>                                                                                                                                                     and your module will be installed.                                                                                                                                                                                                                                                                                                                              It might seem that our project for Corona-Virus Notification is ineffective, but there is another way of scraping that data, I had not uploaded the code here on purpose. Though you might study the plyer documentation to find a solution.
+pip install <module-name>                                                                                                                                                     and your module will be installed.                                                                                                                                              
+  
+It might seem that our project for Corona-Virus Notification is ineffective, but there is another way of scraping that data, I had not uploaded the code here on purpose. Though you might study the plyer documentation to find a solution.
