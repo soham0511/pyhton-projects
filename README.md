@@ -13,6 +13,16 @@ The Railway Announcement System requires you to install pandas, pydub and gTTs. 
 
 To use the Projects involving some game you need to install pygame module from the terminal and the statement for installation:
 pip install pygame
+                                                                                                                                                                   
+ 
+In the DRS Review System Project you need to have pillow, cv2,imutils and modules.                                                                                 
+To install:                                                                                                                                                         
+pip install opencvpython                                                                                                                                           
+pip install pillow                                                                                                                                                 
+pip install imutils                                                                                                                                                 
+other modules come build-in with your python file.                                                                                                                 
+You need to have a video in mp4 format within the same folder as the program named as "clip.mp4", you can also change it from the code.But, make sure video is in mp4 format otherwise it might create problem during image processing.                                                                                               
+
 
 Warning: In the Corona-Virus Notification Project we had scraped our data from Ministry of Health Official Site, where a table of number of cases in different states were available at the time when this program was written, but currently the table class has been removed from the site.                                                             
 
