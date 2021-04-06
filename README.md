@@ -25,10 +25,13 @@ You need to have a video in mp4 format within the same folder as the program nam
 
 
 Warning: In the Corona-Virus Notification Project we had scraped our data from Ministry of Health Official Site, where a table of number of cases in different states were available at the time when this program was written, but currently the table class has been removed from the site.                                                             
-
 Note: the modules which are not mentioned above come built-in with your python installation file, so no need to install them explicitely.
 In case you are using some IDE where terminal option is absent, then you can go to your command-line-prompt for installation.
 In the cmd you need to write
 pip install <module-name>                                                                                                                                                     and your module will be installed.                                                                                                                                              
   
 It might seem that our project for Corona-Virus Notification is ineffective, but there is another way of scraping that data, I had not uploaded the code here on purpose. Though you might study the plyer documentation to find a solution.
+
+In the Desktop Assisstant Project you are required to install pyttsx3, speechrecognition and pyaudio module. There is a part in the project for sending email but before that make sure to allow access to non secure apps from google chrome settings. Also there is a part where the program requires your username and password, so make sure that you are not giving any personal information to the public.
+Note: To install pyttsx3 module write pip install pyttsx3==2.71
+and you might face issues during installations of pyaudio module then, you have to download additional files required for installation of pyaudio from this website https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio download the files according to the specifications of your system.
